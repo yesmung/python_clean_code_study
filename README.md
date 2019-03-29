@@ -3,7 +3,8 @@
 http://www.yes24.com/Product/goods/69064790
 
 ## Github information
-Please add url here
+What URL to include?
 
 ## Attendance list
 Myungsung Kwak (yesmung@gmail.com)
+Jaeho Lee (pospow56@gmail.com)
