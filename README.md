@@ -6,5 +6,5 @@ http://www.yes24.com/Product/goods/69064790
 What URL to include?
 
 ## Attendance list
-Myungsung Kwak (yesmung@gmail.com)
+Myungsung Kwak (yesmung@gmail.com)\n
 Jaeho Lee (pospow56@gmail.com)
