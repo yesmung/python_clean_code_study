@@ -14,7 +14,8 @@
 * Don't reinvent the wheel -- Use existing libraries  
 
 
->> "Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best."
+> "Writing clean code is what you must do in order to call yourself a professional. There is no reasonable excuse for doing anything less than your best."
+
 
 ## Additional References for Clean Code
 [Video] ["Clean Code in Python", EuroPython Conference 2016, Mariano Anaya](https://www.youtube.com/watch?v=7ADbOHW1dTA)  
@@ -46,3 +47,6 @@
  Myungsung Kwak (yesmung@gmail.com)
 
  Jaeho Lee (pospow56@gmail.com)  
+
+ ## Additional Topic
+  * Python Design Pattern [Web1](https://python-patterns.guide/), [Web2](https://www.tutorialspoint.com/python_design_patterns/index.htm)
