@@ -49,4 +49,4 @@
  Jaeho Lee (pospow56@gmail.com)  
 
  ## Additional Topic
-  * Python Design Pattern [Web1](https://python-patterns.guide/), [Web2](https://www.tutorialspoint.com/python_design_patterns/index.htm)
+  * Python Design Pattern Resources --> [Web1](https://python-patterns.guide/), [Web2](https://www.tutorialspoint.com/python_design_patterns/index.htm)
