@@ -17,7 +17,7 @@ def timer(func):
         value - func(*args, **kwargs)
         end_time  = time.perf_counter()
         run_time = end_time - start_time
-        print('Finished {} in {} secs'.format(func.__name__, run_time))
+        print('Finished {!r} in {:.4f} secs'.format(func.__name__, run_time))
         return value
     return wrapper_timer
 
@@ -26,10 +26,10 @@ def debug(func):
     @functools.wraps(func)
     def wrapper_debug(*args, **kawrgs):
         args_repr = [repr(a) for a in args]
-        kwrags_repr = ['{}={}'.format(k, v) for k, v in kwargs.items()]
+        kwrags_repr = ['{}={!r}'.format(k, v) for k, v in kwargs.items()]
         signature = ", ".join(args_repr + kwrags_repr)
         print('Calling {}({})'.format(func.__name__, signature))
         value = func(*args, **kwargs)
-        print('{} returned {}'.format(func.__name__, value))
+        print('{} returned {!r}'.format(func.__name__, value))
         return value
     return wrapper_debug
